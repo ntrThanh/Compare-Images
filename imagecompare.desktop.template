@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Image Compare
+Comment=Visually compare multiple images side by side
+Exec=__EXEC_PATH__
+Icon=__ICON_PATH__
+Terminal=false
+Categories=Graphics;Viewer;
+StartupWMClass=ImageCompare

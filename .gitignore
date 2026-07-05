@@ -1,0 +1,23 @@
+# Build output
+/dist/
+/build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg  
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
